@@ -6,9 +6,9 @@
 
 使用的是Shipsear数据,训练结果如下所示
 
-<img src="https://cdn.jsdelivr.net/gh/vanillaholic/image-bed@main/img/Shipsear_Loss.png" alt="Shipsear_Loss" style="zoom:25%;" />
+<img src="https://cdn.jsdelivr.net/gh/vanillaholic/image-bed@main/img/Shipsear_Loss.png" alt="Shipsear_Loss" style="zoom:10%;" />
 
-<img src="https://cdn.jsdelivr.net/gh/vanillaholic/image-bed@main/img/Shipsear_Acc.png" alt="Shipsear_Acc" style="zoom:25%;" />
+<img src="https://cdn.jsdelivr.net/gh/vanillaholic/image-bed@main/img/Shipsear_Acc.png" alt="Shipsear_Acc" style="zoom:10%;" />
 
 - 环境要求
 
